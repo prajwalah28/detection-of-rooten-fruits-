@@ -1,0 +1,2 @@
+# detection-of-rooten-fruits-
+When it comes to Fruits and Vegetables, consumers prefer fresh fruits over decaying ones. To make life easier for humans, an effective fruit detecting system is necessary. So, using Artificial Intelligence (AI) and Computer Vision, a desktop program called “Detection of Rotten Fruits (DRF)” is offered to help the farmers and the fruit vendors in the early detection of the diseased fruits. 
